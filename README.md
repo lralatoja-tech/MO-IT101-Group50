@@ -39,7 +39,7 @@ How the system works:
 
 ## 📅 Project Plan Link
 
-[Click here to view our Project Plan](https://docs.google.com/spreadsheets/d/1JZrVnzDUEu07Zxgm_9yFfPL1qJ45y25ksR6fihd6rOs/edit?usp=drivesdk)
+[Click here to view our Project Plan](https://docs.google.com/spreadsheets/d/1CX7zEg97ul5RsXzk7KvQqvoTBxVL9p0AlwIeztWFg1w/edit?usp=drivesdk)
 
 ---
 

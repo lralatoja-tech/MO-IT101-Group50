@@ -11,7 +11,7 @@
 |------|-------------|
 | Angeline Latoja | Repository Host, Java program development, payroll computation logic, file reading logic, deduction methods, GitHub setup |
 | Precious Angela Moudebelu | Project plan revision and documentation |
-| Raneza Lyra Robles | Team member – pending contribution |
+| Raneza Lyra Robles | Project Plan revision and documentation |
 | Nestor Ilano | Team member – pending contribution |
 
 ---
